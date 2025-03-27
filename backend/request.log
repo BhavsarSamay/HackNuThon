@@ -1,0 +1,68 @@
+REQUEST DATE : March 27th 2025, 12:18:02 pm
+API URL : http://localhost:5252/api/admin/create-admin
+API PARAMETER : {"name":"Samay","email":"samaybhavsar@gmail.com","password":"123456"}
+
+REQUEST DATE : March 27th 2025, 12:30:26 pm
+API URL : http://localhost:5252/api/admin/edit
+API PARAMETER : {"name":"Samay123"}
+
+REQUEST DATE : March 27th 2025, 12:39:17 pm
+API URL : http://localhost:5252/api/admin/auth
+API PARAMETER : {}
+
+REQUEST DATE : March 27th 2025, 3:19:02 pm
+API URL : http://localhost:5252/api/admin/login
+API PARAMETER : {"email":"samaybhavsar@gmail.com","password":"123456"}
+
+REQUEST DATE : March 27th 2025, 3:19:21 pm
+API URL : http://localhost:5252/api/admin/login
+API PARAMETER : {"email":"samaybhavsar@gmail.com","password":"123456"}
+
+REQUEST DATE : March 27th 2025, 3:19:33 pm
+API URL : http://localhost:5252/api/admin/login
+API PARAMETER : {"email":"samaybhavsar@gmail.com","password":"123456"}
+
+REQUEST DATE : March 27th 2025, 4:25:44 pm
+API URL : http://localhost:5252/api/admin/login
+API PARAMETER : {"email":"samaybhavsar@gmail.com","password":"123456"}
+
+REQUEST DATE : March 27th 2025, 4:37:43 pm
+API URL : http://localhost:5252/api/admin/send-email
+API PARAMETER : {"email":"samaybhavsar6@gmail.com","resend":1}
+
+REQUEST DATE : March 27th 2025, 4:41:03 pm
+API URL : http://localhost:5252/api/admin/create-admin
+API PARAMETER : {"name":"Samay","email":"samaybhavsar6@gmail.com","password":"123456"}
+
+REQUEST DATE : March 27th 2025, 4:41:11 pm
+API URL : http://localhost:5252/api/admin/send-email
+API PARAMETER : {"email":"samaybhavsar6@gmail.com","resend":1}
+
+REQUEST DATE : March 27th 2025, 4:42:16 pm
+API URL : http://localhost:5252/api/admin/send-email
+API PARAMETER : {"email":"samaybhavsar6@gmail.com","resend":1}
+
+REQUEST DATE : March 27th 2025, 4:50:02 pm
+API URL : http://localhost:5252/api/admin/verify-otp
+API PARAMETER : {"otp":"523581","token":"R8kvUFPmsx2xqnugeFUuFEOXrBTKnfgw25SJ3kOt9kKOFGGbQGW0ecte","email":"samaybhavsar6@gmail.com"}
+
+REQUEST DATE : March 27th 2025, 4:55:35 pm
+API URL : http://localhost:5252/api/admin/change-password
+API PARAMETER : {"new_password":"1234567","old_password":"1234567"}
+
+REQUEST DATE : March 27th 2025, 4:56:17 pm
+API URL : http://localhost:5252/api/admin/change-password
+API PARAMETER : {"new_password":"1234567","old_password":"1234567"}
+
+REQUEST DATE : March 27th 2025, 4:56:24 pm
+API URL : http://localhost:5252/api/admin/change-password
+API PARAMETER : {"new_password":"1234567","old_password":"123456"}
+
+REQUEST DATE : March 27th 2025, 4:56:42 pm
+API URL : http://localhost:5252/api/admin/change-password
+API PARAMETER : {"new_password":"1234567","old_password":"123456"}
+
+REQUEST DATE : March 27th 2025, 4:57:30 pm
+API URL : http://localhost:5252/api/admin/change-password
+API PARAMETER : {"new_password":"123456","old_password":"1234567"}
+
